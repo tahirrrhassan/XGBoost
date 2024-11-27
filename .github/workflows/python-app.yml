@@ -21,4 +21,4 @@ jobs:
         pip install numpy pandas seaborn matplotlib xgboost scikit-learn kaggle
 
     - name: Run script
-      run: python XGBoost.py
+      run: python xgBoost.py
